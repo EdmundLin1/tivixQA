@@ -1,5 +1,11 @@
 # tivixQA
-QA Recruitment Task
+QA Recruitment Task:
+
+1. Create 3 different test cases on the http://qalab.pl.tivixlabs.com/ 
+2. Based on created test cases, please write automated E2E tests (preferably using Cypress + BDD, you can publish them to your Github account). 
+
+#################################
+
 Bugs found:
 Country and City dropdown are not dynamic, selecting country should narrow down the city dropdown
 spelling errors in country and city selections
